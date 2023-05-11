@@ -1,6 +1,6 @@
 # The Meal DB in React 🍔
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/{NETLIFY_BADGE_ID}/deploy-status)](https://app.netlify.com/sites/{NETLIFY_SITE_NAME})
+[![Netlify Status](https://api.netlify.com/api/v1/badges/{NETLIFY_BADGE_ID}/deploy-status)](https://app.netlify.com/sites/mealdbapihere)
 
 Welcome to The Meal DB in React project! 🎉 This project provides a simple and user-friendly interface for accessing meal data using The Meal DB API.
 
@@ -14,18 +14,14 @@ Welcome to The Meal DB in React project! 🎉 This project provides a simple and
 
 Check out the live demo hosted on Netlify: [Live Demo](https://your-netlify-link.com)
 
-[![Demo Gif](demo.gif)](https://your-netlify-link.com)
+[![Demo Gif](demo.gif)](https://mealdbapihere.netlify.app/)
 
 ## Getting Started 🛠️
 
-### Prerequisites
-
-- Node.js (version X.X.X)
-- npm (version X.X.X)
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/meal-db-react.git`
+1. Clone the repository: `git clone https://github.com/isarvesh/mealDB.git`
 2. Navigate to the project directory: `cd meal-db-react`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
