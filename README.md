@@ -12,7 +12,7 @@ Welcome to The Meal DB in React project! 🎉 This project provides a simple and
 
 ## Demo 🚀
 
-Check out the live demo hosted on Netlify: [Live Demo](https://your-netlify-link.com)
+Check out the live demo hosted on Netlify: [Live Demo](https://mealdbapihere.netlify.app/)
 
 [![Demo Gif](demo.gif)](https://mealdbapihere.netlify.app/)
 
