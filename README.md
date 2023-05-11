@@ -1,6 +1,6 @@
 # The Meal DB in React 🍔
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/{NETLIFY_BADGE_ID}/deploy-status)](https://app.netlify.com/sites/mealdbapihere)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/388787aa-738d-4bc5-9639-cf28ee1bf08b/deploy-status)](https://app.netlify.com/sites/mealdbapihere/deploys)
 
 Welcome to The Meal DB in React project! 🎉 This project provides a simple and user-friendly interface for accessing meal data using The Meal DB API.
 
